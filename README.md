@@ -38,7 +38,7 @@ php artisan migrate
 php artisan db:seed
 ```
 
-### Acess `app/api/docs`
+### Acess the page: `url-app/api/docs`
 
 ---
 
