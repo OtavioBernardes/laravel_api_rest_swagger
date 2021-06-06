@@ -13,6 +13,11 @@
 git clone https://github.com/OtavioBernardes/laravel_api_rest_swagger
 ```
 
+### Acess the folder `www`
+```
+cd www
+``` 
+
 ### Then do a composer install
 ``` 
 Composer install 
